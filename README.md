@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ganuonglachanh/flarum-ext-sharing.** Not for installation: use [Packagist](https://packagist.org/packages/ganuonglachanh/flarum-ext-sharing) or the [upstream repository](https://github.com/ganuonglachanh/flarum-ext-sharing).
 
-**0** versions archived · Latest: [`0.1.0-beta.7`](https://github.com/flarchive/ganuonglachanh-flarum-ext-sharing/tree/archive/v0.1.0-beta.7) · Flarum: `^0.1.0-beta.6`
+**1** versions archived · Latest: [`0.1.0-beta.7`](https://github.com/flarchive/ganuonglachanh-flarum-ext-sharing/tree/archive/v0.1.0-beta.7) · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.7` | 2018-05-12 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ganuonglachanh-flarum-ext-sharing/tree/archive/v0.1.0-beta.7) |
 
 Catalog entry: [packages/ganuonglachanh-flarum-ext-sharing.json](https://github.com/flarchive/archive-index/blob/main/packages/ganuonglachanh-flarum-ext-sharing.json)
 
